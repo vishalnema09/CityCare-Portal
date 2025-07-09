@@ -1,4 +1,4 @@
-export const baseURL = "http://localhost:3000";
+export const baseURL = "https://citycare-portal.onrender.com";
 
 const SummaryApi = {
   userLogin : {
